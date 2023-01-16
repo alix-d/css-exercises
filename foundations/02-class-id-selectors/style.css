@@ -6,3 +6,8 @@
 .font-size {
 	font-size: 24px;
 }
+
+#first-id {
+	font-size: 36px;
+	color: rgb(0, 0, 255);
+}
