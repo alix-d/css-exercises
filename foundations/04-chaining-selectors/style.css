@@ -1,0 +1,5 @@
+/* styles for proportionate image */
+.avatar.proportioned {
+	width: 300px;
+	height: auto;
+}
