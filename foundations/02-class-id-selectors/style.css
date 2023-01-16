@@ -11,3 +11,8 @@
 	font-size: 36px;
 	color: rgb(0, 0, 255);
 }
+
+#second-id {
+	background-color: rgb(87, 250, 75);
+	font-weight: bold;
+}
